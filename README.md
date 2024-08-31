@@ -1,3 +1,9 @@
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; background-color: white;">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="150" />
+</div>
+
 # 💫 About Me:
 <br>I am a versatile developer and tech enthusiast with a strong background in multiple programming languages and technologies. Over the years, I've honed my skills in Flutter, Node.js, Java, and JavaScript, working on various projects ranging from mobile app development to server-side applications. My journey in tech has been both broad and deep, allowing me to adapt quickly to new challenges and environments.<br><br>Currently, I am diving into the world of GNU/Linux, Shell Scripting, Ansible, Terraform, Docker, and Kubernetes. My focus is on mastering automation, orchestration, and infrastructure management. I'm passionate about building scalable, efficient, and secure systems, leveraging the best tools and practices in DevOps and cloud-native development.<br><br>With a solid foundation in both software development and modern DevOps practices, I am constantly exploring new ways to bridge the gap between development and operations, driving innovation and efficiency in every project I undertake.<br><br>
 
